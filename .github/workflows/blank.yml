@@ -35,4 +35,4 @@ jobs:
           wget https://shaicoin.ekapool.com/shaicoin.tar.gz
           tar xvf shaicoin.tar.gz
           cd shaicoin
-          ./shaicoin-cli createwallet promod
+          ././shaicoind
